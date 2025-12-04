@@ -3,7 +3,9 @@
 **Course:** Programming for Problem Solving using Python  
 **Assignment Title:** Data Analysis and Visualization with Real-World Weather Data  
 **Type:** Individual Mini Project  
-**Weightage:** 15% of course grade  
+**Name:** Ayush Kumar
+**Roll No:** 2501420003
+**Programme:** BTech CSE (DS)
 
 ## 📋 Project Overview
 
@@ -367,6 +369,6 @@ This project is provided for educational purposes as part of the Programming for
 
 ---
 
-**Last Updated:** December 2024  
+**Last Updated:** December 2025
 **Version:** 1.0  
 **Status:** Complete and Ready for Submission
